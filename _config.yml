@@ -1,0 +1,28 @@
+name: 7 Media Group
+favicon: null
+layout_spectrum: 0.8203211154323071
+typography_spectrum: 0.6021687951870263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45441483217291534
+  lightness: 0.5422256160527468
+  saturation: 0.13229502039030194
+  rhythmicContrast: 0.5539912567473948
+purpose: []
